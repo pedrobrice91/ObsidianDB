@@ -83,3 +83,4 @@ db.collection.find({ "responseText": { $regex: /store not found/ } })
   
 
 {$text: {$search: 'id_aca'}} para buscar el pago asociado
+
