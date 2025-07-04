@@ -40,3 +40,59 @@ usuario.nombre      // devuelve el valor de nombre
 true && "Hola"      // devuelve "Hola"
 lista.map(fn)       // devuelve un nuevo array
 () => "Hola"        // devuelve una función
+
+
+
+Pipenv // npm para descargar dependencia y paquetes
+
+ORM ==>pieza de software o la forma de interactuar la base de datos sin saber SQL, con programación orientada objeto
+
+  
+
+**React**
+
+npx create-react-app nombredelaapp
+
+npm install bootstrap
+
+Dependencia **Bootstraps En el archivo index.js pegar** 
+
+import "bootstrap/dist/css/bootstrap.min.css";
+
+import "bootstrap/dist/js/bootstrap.min.js";
+
+  
+
+npm install react-router-dom
+
+**En el archivo app.js pegar**
+
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+
+function App() {
+
+return (
+
+< BrowserRouter›
+
+< Routes>
+
+< Route />
+
+</Routes >
+
+
+
+Mvc, arquitectura hexagonal, solid. ERP, CRM
+
+
+• 17. Expresiones regulares https://www.youtube.com/watch?v=MRKpVxn5fqI
+
+
+Front JavaScrip
+
+Librería React - librería de js para crear interfases para el usuario, bien sea librerías o framework va a generar aplicaciones SPA, Aplicación que no recarga la pantalla, si le instala módulos y paquetes puedes convertirlo en framework
+
+frameworks Angular
+
+  
