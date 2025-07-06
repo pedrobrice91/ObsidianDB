@@ -1,19 +1,18 @@
-libreriasJS:Entorno con herramientas
+libreriasJS: Entorno con herramientas
 NODE: ejecutar js en la terminal
-npm: Instalar paquetes
+npm: para descargar dependencia y paquetes
 Dependencia: manejador de paquetes o codigo que viene de la web
 framework:herramienta
 npm init -y, crea un proyecto en node o se inicializa
-React crear interfaz de usuario
-
-React se enfoca solo en la vista (UI). No impone estructura, ni herramientas, ni forma de compilar. Por eso:
-Puedes usar React con Webpack, Vite, Parcel, Next.js, etc.
+Librería React - librería de js para crear interfases para el usuario, bien sea librerías o framework va a generar aplicaciones SPA, Aplicación que no recarga la pantalla, si le instala módulos y paquetes puedes convertirlo en framework
+React se enfoca solo en la vista (UI). No impone estructura, ni herramientas, ni forma de compilar. Por eso: Puedes usar React con Webpack, Vite, Parcel, Next.js, etc.
 Puedes escribir en JavaScript o TypeScript.
 Puedes manejar rutas con React Router o frameworks como Next.js.
 
-src > components todos los archivos van en mayus
-npm install vite@4.5.0
+frameworks Angular
 
+src > components todos los archivos van en mayus
+npm install vite@4.5.0 para error en MAC
 
 **SÍ necesitas** importar el JavaScript si quieres usar componentes interactivos como:
 
@@ -30,6 +29,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.min.js';
 ```
 
+
+==JSX==
+
 | Tipo          | ¿Devuelve valor? | ¿Permite usar en JSX? | Ejemplo                    |
 | ------------- | ---------------- | --------------------- | -------------------------- |
 | **Expresión** | ✅ Sí             | ✅ Sí                  | `{user.name}`, `{2 * 3}`   |
@@ -41,9 +43,6 @@ true && "Hola"      // devuelve "Hola"
 lista.map(fn)       // devuelve un nuevo array
 () => "Hola"        // devuelve una función
 
-
-
-Pipenv // npm para descargar dependencia y paquetes
 
 ORM ==>pieza de software o la forma de interactuar la base de datos sin saber SQL, con programación orientada objeto
 
@@ -57,30 +56,11 @@ npm install bootstrap
 
 Dependencia **Bootstraps En el archivo index.js pegar** 
 
-import "bootstrap/dist/css/bootstrap.min.css";
-
-import "bootstrap/dist/js/bootstrap.min.js";
-
-  
-
 npm install react-router-dom
 
 **En el archivo app.js pegar**
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
-
-function App() {
-
-return (
-
-< BrowserRouter›
-
-< Routes>
-
-< Route />
-
-</Routes >
-
 
 
 Mvc, arquitectura hexagonal, solid. ERP, CRM
@@ -89,10 +69,5 @@ Mvc, arquitectura hexagonal, solid. ERP, CRM
 • 17. Expresiones regulares https://www.youtube.com/watch?v=MRKpVxn5fqI
 
 
-Front JavaScrip
-
-Librería React - librería de js para crear interfases para el usuario, bien sea librerías o framework va a generar aplicaciones SPA, Aplicación que no recarga la pantalla, si le instala módulos y paquetes puedes convertirlo en framework
-
-frameworks Angular
 
   
