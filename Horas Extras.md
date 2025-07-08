@@ -7,6 +7,8 @@ del 11 de Mayo al 10 de Junio; **Pagado**
 del 11 de Junio al 10 de Julio;  
 del 11 de Julio al Agosto;
 
+01:45:21 WCS huachipa con problema 24-06 __ 07-07
+
 ==**Registros**==
 
 OC 2 |  |09/06 al 15/06|
