@@ -7,7 +7,10 @@ del 11 de Mayo al 10 de Junio; **Pagado**
 del 11 de Junio al 10 de Julio;  
 del 11 de Julio al Agosto;
 
-01:45:21 WCS huachipa con problema 24-06 __ 07-07
+01:30:21 WCS huachipa con problema 24-06 fecha 07-07 problema con server
+45:21 WCS huachipa con problema 24-06 fecha 07-07 problema con server 
+TF-62511 fecha 07-07 Almacen_CD_VES No encuentra equipo
+2h 1m 46s fecha 07-07 Tottus Reñana asimetria TF-62491
 
 ==**Registros**==
 
