@@ -16,3 +16,4 @@ OC2  14/07 al 20/07
 De este CL-CAN-SOD-ENT-MPLS-10000668531-100M-PPAL, CL-RNO-FAL-GTD-MPLS-RESP-CS-010367007
 - Juan martinez también me llamo por una actividad IOFTC-273 | GCCORP-69040 | Habilitación Sucursal Banco Falabella Calle Moneda 97...
 - TF-62909 Incidentes Campus Operations
+ 4h 53m 37s
