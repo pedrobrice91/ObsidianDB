@@ -57,7 +57,6 @@ PWD: C0mun1c4c10n3s
  
 DNA - CHILE SODIMAC
 GUI: https://10.227.136.99
-
 UID: admin
 PWD: NTTdd2024.
  

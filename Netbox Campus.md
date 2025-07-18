@@ -1,4 +1,4 @@
-
+Que es es un soft de documentación de infraestructura resolvería el problema que tiene fal con el millón de lugares que tenemos para buscar info
 
 https://netbox.ads10.site/login/?next=/
 pbriceno
