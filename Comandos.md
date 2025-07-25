@@ -59,8 +59,10 @@ sh mac address-table in Gi1/0/22
 Incidencia
 sh ip route 172.22.17.139
 sh ip arp 172.22.17.139 copie la mac
+trace mac d4f5.ef72.558c d4f5.ef72.558c para seguir mac desde el mismo boatdcas
+sh cdp nei te2/1/1 de pra saltar de sw a sw
 traceroute mac pegue la mac dos veces y me dijo en que equipo estaba
-
+sh mac add | i 4 primers hexa
 Comandos para Tshoot
 
 **En los BROFF para consultar IP:**  

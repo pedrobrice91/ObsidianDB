@@ -4,12 +4,12 @@ npm: para descargar dependencia y paquetes
 Dependencia: manejador de paquetes o codigo que viene de la web
 framework:herramienta
 npm init -y, crea un proyecto en node o se inicializa
-Librería React - librería de js para crear interfases para el usuario, bien sea librerías o framework va a generar aplicaciones SPA, Aplicación que no recarga la pantalla, si le instala módulos y paquetes puedes convertirlo en framework
+Librería React - librería de js para crear interfases para el usuario, bien sea librerías o framework va a generar aplicaciones ==SPA, Aplicación que no recarga la pantalla==, si le instala módulos y paquetes puedes convertirlo en framework
 React se enfoca solo en la vista (UI). No impone estructura, ni herramientas, ni forma de compilar. Por eso: Puedes usar React con Webpack, Vite, Parcel, Next.js, etc.
 Puedes escribir en JavaScript o TypeScript.
 Puedes manejar rutas con React Router o frameworks como Next.js.
-
-frameworks Angular
+1. aplicación web monolítica(MPA)  o web spa
+frameworks Angular 
 
 src > components todos los archivos van en mayus
 npm install vite@4.5.0 para error en MAC
