@@ -62,7 +62,8 @@ npm install react-router-dom
 
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
-==props, useState, useEffect(asincronia) enventosOn(EntradaControLadas), fetch, Route, EstadoGlobal(FLUX(redux))== 
+Hooks=>==props, useState, useEffect(asincronia)  useContext
+enventosOn(EntradaControLadas), fetch, Route, EstadoGlobal(FLUX(redux))== 
 Mvc, arquitectura hexagonal, solid. ERP, CRM
 
 

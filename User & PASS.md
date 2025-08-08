@@ -132,3 +132,9 @@ nagiosadmin
 
 ==netmetrix dashboar==
 MproB.2025
+
+
+sh running-config | inc http
+conf terminal
+ip http secure-server
+do wr
