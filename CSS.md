@@ -1,5 +1,5 @@
 
-## ==Colores y Backgrounds==
+## ==1 Colores y Backgrounds==
 
 ### Sistemas de color
 - Nombres de colores, hexadecimal, RGB, RGBA
@@ -7,13 +7,16 @@
 - Variables CSS para colores
 
 ### Backgrounds
-- `background-color`, `background-image`
-- `background-position`, `background-size`, `background-repeat`
+- `background-color`, 
+- `background-image`
+- `background-position`, 
+- `background-size`, 
+- `background-repeat`
 - `background-attachment`
 - Gradientes: `linear-gradient()`, `radial-gradient()`
 
 ### Unidades relativas
-## ==Modelo de Caja (Box Model)
+## ==2 Modelo de Cajas (Box Model)
 
 Componentes del Box Model
 - **Content**: contenido real
@@ -28,7 +31,7 @@ Componentes del Box Model
 - `padding`, `margin`, `border`
 - Shorthand properties: `margin: 10px 20px 15px 5px`
 
-## ==Posicionamiento y Layout
+## ==Layout y Posicionamiento
 
 ### Display
 
