@@ -47,9 +47,9 @@ Componentes del Box Model
 - `fixed`: posición fija respecto al viewport
 - `sticky`: combinación de relative y fixed
 - Propiedades: `top`, `right`, `bottom`, `left`, `z-index`
-## ==Tipografía y Texto==
+## ==Tipografía,Texto y fuente==
 
-### Propiedades de fuente
+### Propiedades de ==fuente==
 
 - `font-family`, `font-size`, `font-weight`, `font-style`
 - `line-height`, `letter-spacing`, `word-spacing`

@@ -41,7 +41,26 @@ show run interface vlan 905: Muestra la configuración específica de una interf
 sh run view full     cuando no funciona directo la interfaz
 
 ==Comandos para protocolos de enrutamiento dinámico (como OSPF, EIGRP y BGP)==
-- show ip ospf neighbor - Detalla los vecinos de OSPF.
+
+`show ip route                 ← Tabla de enrutamiento IPv4 
+`show ipv6 route               ← Tabla de enrutamiento IPv6 
+show running-config           ← Ver configuración actual 
+ping <IP>                     ← Probar conectividad 
+traceroute <IP>               ← Trazar ruta`
+
+OSPF
+`show ip ospf                  ← Ver proceso OSPF y configuraciones 
+show ip ospf neighbor         ← Ver vecinos OSPF y estado 
+show ip ospf interface        ← Ver interfaces activas en OSPF 
+show ip ospf database         ← Ver base de datos LSDB 
+debug ip ospf events          ← Depuración de eventos OSPF`
+
+BGP
+`show ip bgp summary           ← Ver vecinos y estado BGP 
+show ip bgp                   ← Ver tabla BGP 
+show ip bgp neighbors         ← Ver detalles de cada vecino 
+show ip bgp <prefix>          ← Ver información de una ruta específica 
+debug ip bgp                  ← Depuración BGP`
 
 ==Comandos para tablas de enrutamiento y conectividad==
 - show ip route 0.0.0.0 Muestra información de enrutamiento para una IP específica.
@@ -131,3 +150,8 @@ net user /do pbriceno                 #permisos en el AD
 ----------------------------------------------------------------------------------------------
 ssh-keygen -R
 ----------------------------------------------------------------------------------------------
+
+
+
+copy running-config startup-config
+show spanning-tree vlan 50

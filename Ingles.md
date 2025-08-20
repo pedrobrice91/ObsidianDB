@@ -52,7 +52,8 @@ Para alguien con un nivel A1 de inglés que quiere aprender el idioma con buenas
 - Comparativos y superlativos
 - Presente perfecto
 
-  
+  learn english teens
+  BRAIN POP
 
 Para alguien con nivel A2 que quiere construir buenas bases en inglés, aquí te presento una guía estructurada:
 

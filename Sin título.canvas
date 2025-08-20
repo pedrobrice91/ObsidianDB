@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"4a7b377b2059394b","type":"text","text":"thousandeyes","x":-1200,"y":8,"width":250,"height":60},
+		{"id":"791ca0833a27bacc","type":"text","text":"Network & App","x":-850,"y":8,"width":250,"height":60},
+		{"id":"1c086ca5296c3341","type":"text","text":"Dashboards","x":-850,"y":105,"width":250,"height":60},
+		{"id":"608c6922d2c42529","type":"text","text":"Endpoint","x":-850,"y":-80,"width":250,"height":60},
+		{"id":"bf1093cea033eb36","type":"text","text":"De los equipos 9300\npuedo ver cuando estan apagados, o cuando conmutan, puedo ver los protocolos icmp, cuando hay latencia, paquet loss","x":-350,"y":-50,"width":250,"height":177},
+		{"id":"7202325ca83685b4","x":-40,"y":-35,"width":250,"height":148,"type":"text","text":"Puedo ver de los 4 equipos sw, cuando tienen algun problema y no tengo una tarea creada "},
+		{"id":"9960894da751a206","x":240,"y":-34,"width":250,"height":147,"type":"text","text":"si no tengo equipos  9300 en sedes importantes que puedo hacer con la herramienta\n"},
+		{"id":"c8b49d23bb02e248","x":-1200,"y":97,"width":250,"height":294,"type":"text","text":"**ThousandEyes** es una herramienta que ayuda a las empresas a **ver cómo está funcionando su red y sus aplicaciones**\n\nVer si una falla está en tu red, en tu proveedor de internet, o en un servicio externo."},
+		{"id":"ea4c6abb9399db8a","x":-415,"y":-340,"width":250,"height":180,"type":"text","text":"Cual seria el flujo cuando me dicen que hay una falla en la sede xxx, tengo que tener el agente en los usuarios o en los equipos \n"},
+		{"id":"c0ccf9f12b0beb08","x":-100,"y":-310,"width":250,"height":90,"type":"text","text":"Donde veo, si la falla, es la red, el servicio o el internet"},
+		{"id":"e0219755a23ceea3","x":-850,"y":184,"width":250,"height":60,"type":"text","text":"Alerts QUE HACE"},
+		{"id":"1c21f3d789b86444","type":"text","text":"como es el cobro\npor tarea, ejem si tengo una tarea aplicada a 1000 agentes me cobran por tarea o por agente","x":-165,"y":280,"width":250,"height":157},
+		{"id":"5574791ad0af1248","type":"text","text":"Reporteria\ndonde se descarga\ncuanto dura\nse pueden hacer alertas ","x":-515,"y":290,"width":250,"height":137},
+		{"id":"42ac57e03c309729","x":-850,"y":280,"width":250,"height":60,"type":"text","text":"Routing QUE HACE"},
+		{"id":"df803a021d608bd4","x":-850,"y":377,"width":250,"height":60,"type":"text","text":"traffic Insights Que hace"},
+		{"id":"e386f510cbddff83","x":-100,"y":510,"width":250,"height":60,"type":"text","text":"Cuantos tipos de licencia hay"},
+		{"id":"6d1fdffa713c1b4b","x":-475,"y":510,"width":250,"height":60,"type":"text","text":"Con la licencia que alcance tengo"},
+		{"id":"4c547be8c3f82ead","x":-1200,"y":450,"width":250,"height":60,"type":"text","text":"POC Falabella "}
+	],
+	"edges":[
+		{"id":"d9b889f25e461006","fromNode":"791ca0833a27bacc","fromSide":"right","toNode":"bf1093cea033eb36","toSide":"left"},
+		{"id":"9be4c4d4f4d28cb9","fromNode":"bf1093cea033eb36","fromSide":"right","toNode":"7202325ca83685b4","toSide":"left"},
+		{"id":"849150d43f753087","fromNode":"608c6922d2c42529","fromSide":"top","toNode":"ea4c6abb9399db8a","toSide":"left"}
+	]
+}

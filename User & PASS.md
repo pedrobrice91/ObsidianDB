@@ -13,9 +13,12 @@ zabbix.falabella.cl -- grafana
 tac
 wZYB0OiTWvgEQER
 
-cuenta de biter
+**cuenta de biter**
 User: pbriceno@falabella.cl
 Pass: [0c49X3Kk6
+
+[netsecops@falabella.cl](mailto:netsecops@falabella.cl "mailto:netsecops@falabella.cl") 
+netsecops2024
 
 portal.cirion
 tac-chile@falabella.cl
@@ -74,9 +77,6 @@ PWD: NTTdd2024.
 SuperUser
 campus
 yf5YD01rp9Ul.
-
-Garabatal_11+
-**Cisco id**
 
 user:campusntt
 pass:NTT.C1mpu$
@@ -138,3 +138,6 @@ sh running-config | inc http
 conf terminal
 ip http secure-server
 do wr
+
+Garabatal_11+
+**Cisco id**

@@ -70,8 +70,8 @@ OSPF (Open Shortest Path First):
 NAT (Network Address Translation):
 Técnica utilizada por routers para traducir direcciones IP privadas en direcciones IP públicas. Es esencial para que dispositivos dentro de una red puedan comunicarse con el exterior (Internet).
 NAT estático, dinámico y PAT (Port Address Translation).
-Enrutamiento estático: Las rutas son configuradas manualmente. Es adecuado para redes pequeñas y simples.
-Enrutamiento dinámico: Los protocolos como RIP, OSPF y BGP permiten que los routers actualicen automáticamente las rutas según los cambios en la red
+Enrutamiento estático: Las rutas son configuradas manualmente. Es adecuado para redes pequeñas y simples. 
+Enrutamiento dinámico: Los protocolos como RIP, O SPF y BGP, eBGP permiten que los routers actualicen automáticamente las rutas según los cambios en la red
 **Tecnologías comunes en redes WAN**
 1. MPLS (Multiprotocol Label Switching): Optimiza el enrutamiento de datos y mejora la velocidad y eficiencia.
 2. VPN (Virtual Private Network): Proporciona conexiones seguras a través de redes públicas.
