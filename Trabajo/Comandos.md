@@ -1,6 +1,7 @@
 
    ==**Comandos extreme Networks**==
-- show vlan - `Muestra todas las VLANs configuradas`
+- ```show vlan``` 
+- `Muestra todas las VLANs configuradas`
 
 ==Para interfaces:==
 - sh port no-refresh - `Muestra el estado de todos los puertos`
